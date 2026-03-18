@@ -1,5 +1,5 @@
 baseURL: "https://huongngh.github.io/"
-title: huongngh
+title: "Hương Huỳnh"
 paginate: 5
 theme: PaperMod
 enableRobotsTXT: true
@@ -19,7 +19,7 @@ outputs:
 
 params:
   env: production
-  title: huongngh
+  title: "Hương Huỳnh"
   description: "My personal site"
   author: huongngh
   defaultTheme: auto
@@ -34,7 +34,7 @@ params:
   tocopen: false
 
   homeInfoParams:
-    Title: "Hi, I'm Huong 👋"
+    Title: "Hi, I'm Hương 👋"
     Content: Welcome to my personal site
 
   socialIcons:
