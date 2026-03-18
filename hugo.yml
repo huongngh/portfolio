@@ -32,6 +32,7 @@ params:
   ShowWordCount: true
   showtoc: true
   tocopen: false
+  hidemeta: true
 
   homeInfoParams:
     Title: "Hi, I'm Hương 👋"
