@@ -8,7 +8,7 @@ showtoc: false
 draft: false
 ---
 
-## Hi, I'm Hương 👋
+## Hi, I'm Hương 
 
 I'm a data engineer 
 
