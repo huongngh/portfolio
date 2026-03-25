@@ -46,4 +46,4 @@ My cloud experience spans AWS, GCP, Azure, where I've worked on storage, orchest
 ## Contact
 - GitHub: [huongngh](https://github.com/huongngh)
 - Email: info.huonghuynh@gmail.com
-- Linkedin: [Hương Huỳnh](www.linkedin.com/in/huongngh) 
+- Linkedln: [Hương Huỳnh](www.linkedin.com/in/huongngh) 
