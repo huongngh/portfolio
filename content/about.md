@@ -9,8 +9,10 @@ draft: false
 ---
 
 ## Hi, I'm Hương 
-
-I'm a data engineer 
+ 
+I'm a data engineer passionate about turning raw data into reliable, scalable infrastructure that teams can actually use.
+I've worked on building ETL pipelines, designing data warehouse models, and experimenting with real-time streaming architectures using tools like Spark, Kafka, Airflow, dbt.
+My cloud experience spans AWS, GCP, Azure, where I've worked on storage, orchestration, compute.
 
 ## 🛠️ Skills
 
@@ -44,3 +46,4 @@ I'm a data engineer
 ## Contact
 - GitHub: [huongngh](https://github.com/huongngh)
 - Email: info.huonghuynh@gmail.com
+- Linkedin: [Hương Huỳnh](www.linkedin.com/in/huongngh) 
