@@ -47,6 +47,8 @@ params:
       url: "https://github.com/huongngh"
     - name: email
       url: "mailto:info.huonghuynh@gmail.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/huongngh/"
 
 menu:
   main:
