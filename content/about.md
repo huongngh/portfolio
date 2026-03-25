@@ -14,7 +14,7 @@ I'm a data engineer passionate about turning raw data into reliable, scalable in
 I've worked on building ETL pipelines, designing data warehouse models, and experimenting with real-time streaming architectures using tools like Spark, Kafka, Airflow, dbt.
 My cloud experience spans AWS, GCP, Azure, where I've worked on storage, orchestration, compute.
 
-## 🛠️ Skills
+## Skills
 
 ### Data Engineering
 - Data Warehouse Design (Bronze / Silver / Gold layered architecture)
