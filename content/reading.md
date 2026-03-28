@@ -12,6 +12,7 @@ A collection of essays and articles that stuck with me.
 
 ---
 
+- [Ocean Web Cams](https://www.openoceans.org/web-cams) — *OpenOceansGlobal*
 - [Yale Environment 360](https://e360.yale.edu/topics) — *Yale* 
 - [The Brand Age](https://paulgraham.com/brandage.html) — *Paul Graham* 
 - [Search, Discovery and Marketing](https://www.ben-evans.com/benedictevans/2015/6/24/search-discovery-and-marketing) — *Benedict Evans* 
