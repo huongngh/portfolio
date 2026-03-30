@@ -11,7 +11,7 @@ hidemeta: true
 A collection of essays and articles that stuck with me.
 
 ---
-
+- [Asimov Press](https://press.asimov.com/) - *Niko McCarty*
 - [Ocean Web Cams](https://www.openoceans.org/web-cams) — *OpenOceansGlobal*
 - [Yale Environment 360](https://e360.yale.edu/topics) — *Yale* 
 - [The Brand Age](https://paulgraham.com/brandage.html) — *Paul Graham* 
