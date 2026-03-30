@@ -39,14 +39,14 @@ params:
   homeInfoParams:
     Title: "Hi, I'm Hương"
     Content: >
-      I'm a data engineer.
+      I'm a developer. I build things.
       See my [projects](/projects/) →
 
   socialIcons:
     - name: github
       url: "https://github.com/huongngh"
     - name: email
-      url: "mailto:info.huonghuynh@gmail.com"
+      url: "mailto:huonghuynh.1236@gmail.com"
     - name: linkedin
       url: "https://www.linkedin.com/in/huongngh/"
 
